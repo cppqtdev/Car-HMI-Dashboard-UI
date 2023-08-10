@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/Dashboard.svg</file>
+        <file>assets/Vector 70.svg</file>
+        <file>assets/Low beam headlights.svg</file>
+        <file>assets/Vector 1.svg</file>
+        <file>assets/Vector 2.svg</file>
+        <file>assets/FirstRightIcon.svg</file>
+        <file>assets/FourthRightIcon.svg</file>
+        <file>assets/Lights.svg</file>
+        <file>assets/Parking lights.svg</file>
+        <file>assets/Rare fog lights.svg</file>
+        <file>assets/SecondRightIcon.svg</file>
+        <file>assets/thirdRightIcon.svg</file>
+        <file>assets/car.png</file>
+        <file>assets/fuel.svg</file>
+        <file>assets/Group 28.svg</file>
+        <file>assets/speedometer.svg</file>
+    </qresource>
+</RCC>
